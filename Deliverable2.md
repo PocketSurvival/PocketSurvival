@@ -1,4 +1,4 @@
-Problem
+**Problem**:
    Statistics have shown that the growing reliance on technology has caused a decrease in knowledge about general tasks that can easily
   decidelife or death. The problem at hand is that younger generations are learning less due to the fact that everything they need to know
   can be easily searched on the Internet. These things include how to change a tire, how to perform CPR, and much more. These tasks are not
@@ -14,7 +14,7 @@ Problem
   these are often overlooked and deemed unnecessary to remember. In order to combat this, our solution is an app with relevant information
   described below.
 
-Solution
+**Solution**:
    Our solution to this problem is a simple survival application called Pocket Survival. This app compiles relevant information that is
   otherwise disregarded. The information includes things like simple tips on how to survive if stranded and other tasks such as how to
   unclog a pipe will be provided in the app. Pocket Survival aims to provide its users with the information to carry out tasks that are
@@ -23,7 +23,7 @@ Solution
   app: provide users with the necessary information in order to survive in not only daily tasks, but also those that involve life and
   death.
 
-Process
+**Process**:
 	  When implementing the agile method to our project, we will mainly focus on incremental delivery. We have broken up the stages we will
   focus on the GUI, getting relevant documents on a server that is then accessed by the app, and adding the ability to save documents
   offline. Given the time available before our mid October deadline, we will have 4 sprints of a week each where the first three are as
