@@ -34,6 +34,8 @@
   group has decided to stray away from pair programming and instead code together as a team. We believe our team is small enough where we
   can all gain something from coding together. Additionally, we all hope to gain much knowledge and experience from building an app from
   the bottom up instead of each of us working on different parts.
+  
+**Sources**:
 
 https://www.usnews.com/education/blogs/high-school-notes/2011/09/19/two-thirds-of-teen-drivers-dont-know-basic-auto-repair
 
