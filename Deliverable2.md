@@ -26,6 +26,7 @@
   death.
 
 **Process**:
+
   When implementing the agile method to our project, we will mainly focus on incremental delivery. We have broken up the stages we will
   focus on the GUI, getting relevant documents on a server that is then accessed by the app, and adding the ability to save documents
   offline. Given the time available before our mid October deadline, we will have 4 sprints of a week each where the first three are as
